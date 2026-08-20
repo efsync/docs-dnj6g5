@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-r19bwm.date-me.pro/sitemap.xml
